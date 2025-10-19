@@ -11,7 +11,7 @@ Hi,I am Mamun Ar Roshid, a passionate React-based front-end developer. Although 
 <a href="mailto:mamun.roshid.dev@gmail.com">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" />
 </a>
-<a href="https://mamunarr6.netlify.app/">
+<a href="https://mamunarroshid.netlify.app/">
    <img src="https://go-skill-icons.vercel.app/api/icons?i=chrome" />
 </a>
 <a href="https://www.linkedin.com/in/mamun-ar-roshid">
