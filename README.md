@@ -1,4 +1,4 @@
-![](https://media.licdn.com/dms/image/v2/D5616AQGzA2_qm_DjBA/profile-displaybackgroundimage-shrink_350_1400/B56Zbanpc1G4Ac-/0/1747424549802?e=1761177600&v=beta&t=AMXTDySeNXM1ajlmfdHuhw_luMZ6OqHc68PE4gaqvEA)
+![](https://media.licdn.com/dms/image/v2/D5616AQGzA2_qm_DjBA/profile-displaybackgroundimage-shrink_350_1400/B56Zbanpc1G4Ac-/0/1747424549802?e=1762992000&v=beta&t=aGUw88q4DX2za21IwgdGweCLy_RdXrBBIHeT93Dz7c0)
 
 Hi,I am Mamun Ar Roshid, a passionate React-based front-end developer. Although I don't come from a CSE background, my eagerness to learn new technologies led me to this field and now I truly love it.
 
