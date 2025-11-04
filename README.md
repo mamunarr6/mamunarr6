@@ -36,13 +36,14 @@ Hi,I am Mamun Ar Roshid, a passionate React-based front-end developer. Although 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,tailwindcss,react,nodejs,expressjs,mongodb," /> <br/>
 
 
-
+<!--
 ### 📊 GitHub Stats:
 
 <span> 
     <img src="https://nirzak-streak-stats.vercel.app/?user=mamunarr6&theme=default&hide_border=false" />  
     
 </span>
+-->
 
 
 <!--
